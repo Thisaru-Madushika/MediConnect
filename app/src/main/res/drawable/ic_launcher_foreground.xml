@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Light blue rounded square background (Centered) -->
+    <path
+        android:fillColor="@color/blue_light"
+        android:pathData="M20,20h68a12,12 0,0 1,12 12v68a12,12 0,0 1,-12 12h-68a12,12 0,0 1,-12 -12v-68a12,12 0,0 1,12 -12z" />
+
+    <!-- Dark blue heart icon (Exactly centered using translation) -->
+    <group
+        android:translateX="29"
+        android:translateY="32.5">
+        <path
+            android:fillColor="@color/blue_primary"
+            android:pathData="M25,43.35l-3.45,-3.12C9.4,28.36 2,21.28 2,12.5C2,5.42 7.42,0 14.5,0c4.04,0 7.91,1.88 10.5,4.84C27.59,1.88 31.46,0 35.5,0 42.58,0 48,5.42 48,12.5c0,8.78 -7.4,15.86 -21.15,28.37L25,43.35zM14.5,4.5c-4.42,0 -8,3.58 -8,8c0,6.07 5.7,11.83 18.5,23.5l1,0.9l1,-0.9C39.8,24.33 45.5,18.57 45.5,12.5c0,-4.42 -3.58,-8 -8,-8c-3.41,0 -6.7,2.16 -7.8,5.13h-2.4C26.2,6.66 22.91,4.5 14.5,4.5z" />
+    </group>
+</vector>
