@@ -8,7 +8,7 @@ MediConnect is a comprehensive mobile application designed to bridge the gap bet
 
 ## 🔗 Project Assets & Links
 
-*   **Figma UI/UX Design:** [Click here to view the Figma Prototype](https://www.figma.com/file/your-actual-figma-link-here) 🎨
+*   **Figma UI/UX Design:** [Click here to view the Figma Prototype](https://www.figma.com/design/NgUVVEJRPKOZWS2Y4OEay6/Untitled?node-id=0-1&t=yx93em6RIzuxJXAD-1) 🎨
 *   **Project Demo Video:** [Watch the Application Walkthrough Presentation](https://www.youtube.com/watch?v=your-actual-video-link-here) 🍿
 
 ---
