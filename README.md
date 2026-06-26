@@ -1,4 +1,5 @@
 # MediConnect Mobile Application 🏥📱
+<img width="1380" height="768" alt="Gemini_Generated_Image_qzpb9hqzpb9hqzpb" src="https://github.com/user-attachments/assets/51fcc78b-36c9-4b8a-9afd-0a9211c2c467" />
 
 > **"Healthcare at your fingertips"**
 
